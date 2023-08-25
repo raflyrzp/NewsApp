@@ -1,1 +1,1 @@
-"# NewsApp" 
+layout for a news app
