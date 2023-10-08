@@ -1,1 +1,1 @@
-Ini merupakan project belajar saya dalam membbuat layout sebuah aplikasi android menggunakan bahasa Kotlin
+Ini merupakan project belajar saya dalam membuat layout sebuah aplikasi android menggunakan bahasa Kotlin
